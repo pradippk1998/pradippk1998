@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pradip Kumar</h1>
+<h2 align="center">I'm in the final year of B.Tech Computer Science.</h2>
 <h3 align="center">A passionate Web Developer</h3>
+<h4 align="center">Interested in almost anything related to technology. Love solving algorithmic problems on various websites.</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pradippk1998&label=Profile%20views&color=0e75b6&style=flat" alt="pradippk1998" /> </p>
 
