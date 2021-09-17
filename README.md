@@ -5,7 +5,7 @@
 Interested in almost anything 
 related to technology.  Love solving algorithmic problems on various websites. 
 
-Skills: C++ /JS / HTML / CSS 
+Skills: C++ / JS / HTML / CSS 
 
 - 🔭 I’m currently working on My Project 
 - 🌱 I’m currently learning Javascript 
